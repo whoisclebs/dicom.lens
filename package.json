@@ -1,8 +1,9 @@
 {
-  "name": "ld.health",
+  "name": "dicom.lens",
   "version": "0.1.0",
   "workspaces": [
-    "plataform/*"
+    "web/*",
+    "packages/*"
   ],
   "scripts": {
     "dev:api": "npm run start --workspace=api.ld.health",
