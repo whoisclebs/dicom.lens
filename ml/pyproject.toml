@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "dicomlens"
+version = "0.1.0"
+description = "Machine learning modules for DicomLens: training scripts and utilities."
+authors = ["whoisclebs"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+tensorflow = "^2.13"
+numpy = "^1.23"
+matplotlib = "^3.7"
+pandas = "^1.5"
+
+[tool.poetry.dev-dependencies]
+black = "^23.1"
+flake8 = "^5.0"
+pytest = "^7.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
