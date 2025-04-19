@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/whoisclebs/dicom.lens/blob/main/LICENSE"><img src="https://img.shields.io/github/license/whoisclebs/dicom.lens" alt="License"/></a>
-  <a href="https://github.com/whoisclebs/dicom.lens/actions"><img src="https://img.shields.io/github/actions/workflow/status/whoisclebs/dicom.lens/ci.yml" alt="CI Status"/></a>
+  <a href="https://github.com/whoisclebs/dicom.lens/actions"><img src="https://img.shields.io/github/actions/workflow/status/whoisclebs/dicom.lens/codeql.yml" alt="CI Status"/></a>
   <a href="https://dicomlens.whoisclebs.com"><img src="https://img.shields.io/badge/docs-live-blue" alt="Documentation"/></a>
 </p>
 
