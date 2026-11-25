@@ -5,16 +5,16 @@ description = "Machine learning modules for DicomLens: training scripts and util
 authors = ["whoisclebs"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.10"
 tensorflow = "^2.13"
 numpy = "^1.23"
 matplotlib = "^3.7"
 pandas = "^1.5"
 
 [tool.poetry.dev-dependencies]
-black = "^24.8"
+black = "^26.10.1"
 flake8 = "^5.0"
-pytest = "^7.2"
+pytest = "^9.0.3"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

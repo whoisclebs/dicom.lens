@@ -8,14 +8,14 @@ export default function About() {
                 </div>
                 <div className="">
                     <h2 className="text-2xl" >What is Lorem Ipsum?</h2>
-                    <p className="text-base w-80">ALorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                    <p className="text-base w-80">ALorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
                 </div>
             </div>
 
             <div role="status" className="ml-36 space-y-8 md:space-y-0 md:space-x-8 md:flex md:items-center pt-10 justify-center">
                 <div className="column mr-32">
                     <h2 className="text-2xl w-80" >What is Lorem Ipsum?</h2>
-                    <p className="text-base w-80">ALorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                    <p className="text-base w-80">ALorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
                 </div>
 
 
@@ -29,7 +29,7 @@ export default function About() {
                 </div>
                 <div className="column">
                     <h2 className="text-2xl" >What is Lorem Ipsum?</h2>
-                    <p className="text-base w-80">ALorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                    <p className="text-base w-80">ALorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
                 </div>
             </div>
         </section>
